@@ -10,7 +10,7 @@ http://storage.moviepoisk.ru
 
 http://jaeger.moviepoisk.ru
 
-http://client.moviepoisk.ru\
+http://client.moviepoisk.ru
 
 http://httpbin.moviepoisk.ru
 
