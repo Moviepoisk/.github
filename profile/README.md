@@ -1,18 +1,20 @@
 ## Moviepoisk сервисы 👋
 
-http://admin.moviepoisk.ru
+https://admin.moviepoisk.ru
 
-http://auth.moviepoisk.ru
+https://auth.moviepoisk.ru
 
-http://search.moviepoisk.ru
+https://jaeger.moviepoisk.ru
 
-http://storage.moviepoisk.ru
+https://httpbin.moviepoisk.ru
 
-http://jaeger.moviepoisk.ru
+### Пока недоступно из интернета
 
-http://client.moviepoisk.ru
+https://search.moviepoisk.ru
 
-http://httpbin.moviepoisk.ru
+https://storage.moviepoisk.ru
+
+https://client.moviepoisk.ru
 
 <!--
 
