@@ -4,6 +4,8 @@ https://admin.moviepoisk.ru
 
 https://auth.moviepoisk.ru
 
+https://auth2.moviepoisk.ru
+
 https://jaeger.moviepoisk.ru
 
 https://httpbin.moviepoisk.ru
